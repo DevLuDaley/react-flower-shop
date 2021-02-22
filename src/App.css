@@ -24,9 +24,24 @@
   color: white;
 }
 
+.image {
+ /* background: red; */
+ /* padding: 50px; */
+}
+
+.img {
+  /* padding: 50px;
+  margin: 10px;
+  background: red; */
+}
+
 .App-link {
   color: #61dafb;
 }
+
+/* .flower-cards {
+  
+} */
 
 @keyframes App-logo-spin {
   from {
